@@ -2,7 +2,6 @@
 using System.Net;
 
 namespace IPAddressAnalyzer;
-
 public class ParserExtensions
 {
     public Dictionary<string, string> ParseArguments(string[] arguments)
